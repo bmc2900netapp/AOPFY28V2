@@ -1,0 +1,20 @@
+# dependencies
+/node_modules
+/.yarn
+.pnp.*
+
+# builds
+/.next
+/.build
+/out
+/dist
+*.tsbuildinfo
+
+# env & secrets
+.env
+.env.local
+.env*.local
+
+# logs / os
+*.log
+.DS_Store
